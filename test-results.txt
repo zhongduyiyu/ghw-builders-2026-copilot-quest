@@ -1,0 +1,23 @@
+test_command_line_reprompts_after_invalid_input (test_game.GameTests.test_command_line_reprompts_after_invalid_input) ... ok
+test_eof_after_progressing_to_workshop_ends_gracefully (test_game.GameTests.test_eof_after_progressing_to_workshop_ends_gracefully) ... ok
+test_eof_ends_gracefully (test_game.GameTests.test_eof_ends_gracefully) ... ok
+test_game_rejects_choices_after_ending (test_game.GameTests.test_game_rejects_choices_after_ending) ... ok
+test_heading_home_from_creek (test_game.GameTests.test_heading_home_from_creek) ... ok
+test_heading_home_from_gate (test_game.GameTests.test_heading_home_from_gate) ... ok
+test_heading_home_from_summit (test_game.GameTests.test_heading_home_from_summit) ... ok
+test_heading_home_from_workshop_via_fair_entrance (test_game.GameTests.test_heading_home_from_workshop_via_fair_entrance) ... ok
+test_invalid_choice_does_not_change_state (test_game.GameTests.test_invalid_choice_does_not_change_state) ... ok
+test_invalid_choice_is_checked_for_current_scene (test_game.GameTests.test_invalid_choice_is_checked_for_current_scene) ... ok
+test_new_game_starts_with_clean_state (test_game.GameTests.test_new_game_starts_with_clean_state) ... ok
+test_quit_accepts_uppercase_and_surrounding_whitespace (test_game.GameTests.test_quit_accepts_uppercase_and_surrounding_whitespace) ... ok
+test_quit_works_from_any_scene (test_game.GameTests.test_quit_works_from_any_scene) ... ok
+test_retreat_is_distinct_from_win (test_game.GameTests.test_retreat_is_distinct_from_win) ... ok
+test_ridge_race_with_toolkit_is_a_win (test_game.GameTests.test_ridge_race_with_toolkit_is_a_win) ... ok
+test_ridge_race_without_toolkit_is_a_loss (test_game.GameTests.test_ridge_race_without_toolkit_is_a_loss) ... ok
+test_safe_creek_crossing_requires_toolkit (test_game.GameTests.test_safe_creek_crossing_requires_toolkit) ... ok
+test_toolkit_route_reaches_a_win (test_game.GameTests.test_toolkit_route_reaches_a_win) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.000s
+
+OK
