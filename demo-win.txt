@@ -1,0 +1,24 @@
+Welcome to Builder Quest! Help light the beacon at the Builder Fair.
+Enter a choice number, or q at any time to quit.
+
+You arrive at the sunny Builder Fair. A workshop and a creek lie ahead.
+1. Visit the workshop
+2. Head straight to the creek
+3. Head home
+> 
+The workshop is full of friendly builders and useful supplies.
+1. Pack a sturdy toolkit and go to the creek
+2. Go to the creek without supplies
+3. Return to the fair entrance
+> 
+A little creek blocks the path to the hilltop beacon.
+1. Build a safe crossing
+2. Try to leap across
+3. Head home
+> 
+You made it to the hilltop! The fair's beacon is ready to light.
+1. Light the beacon
+2. Race along the ridge
+3. Head home
+> 
+The beacon shines across the fair! Everyone cheers. You are a Builder Quest champion!
